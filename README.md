@@ -1,5 +1,5 @@
 # Bidding System (Server)
-The server of Bidding System. Hosted on Heroku.
+The server of Bidding System. Hosted on Heroku. You can access the server locally on port `3001`.
 
 ## Version
 - Rails ~> 7.0.4.2
